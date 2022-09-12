@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rashmi Pachpande</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNCDS8HdSzs1qBIhC0P7LVZD5kuhcX0PlRwA&usqp=CAU"/>
+<a href="https://app.daily.dev/rash"><img src="https://api.daily.dev/devcards/32ab028d58834774bdb041057daba87f.png?r=ezp" width="400" alt="Rash's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmipachpande&label=Profile%20views&color=0e75b6&style=flat" alt="rashmipachpande" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmipachpande" alt="rashmipachpande" /></a> </p>
