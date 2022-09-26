@@ -26,5 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmipachpande&show_icons=true&locale=en" alt="rashmipachpande" /></p>
 
+<p><a href="https://wakatime.com/dashboard">WakaTime</a></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmipachpande&" alt="rashmipachpande" /></p>
 
