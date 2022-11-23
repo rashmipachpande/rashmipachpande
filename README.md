@@ -12,6 +12,11 @@
 
 - 📫 How to reach me **rashmipachpande2@gmail.com**
 
+<h3 align="left">Achievements:</h3>
+<p align="left">
+ <a href="https://www.credly.com/badges/e0d1ed79-a394-4f86-9176-6942996909dc/public_url" target="blank"><img align="center" src="https://images.credly.com/size/220x220/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="@rashmipachpande2" height="50width="50"/></a>
+  </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/rashmipachpande2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rashmipachpande2" height="30" width="40" /></a>
