@@ -1,20 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Rashmi Pachpande</h1>
-<h3 align="center">🌱 Aspiring Data Analyst | Data Science Enthusiast  
-📊 Learning Data Analytics, Python, SQL & Machine Learning  
-💡 Passionate about Data Visualisation, Insights & Problem-Solving  
-🚀 Always Learning, Growing & Exploring Data-Driven Solutions</h3>
+<h3 align="center">🌱 Aspiring Data Analyst | Data Science Enthusiast</h3>
 
 <a href="https://app.daily.dev/rash"><img src="https://api.daily.dev/devcards/32ab028d58834774bdb041057daba87f.png?r=ezp" width="400" alt="Rash's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmipachpande&label=Profile%20views&color=0e75b6&style=flat" alt="rashmipachpande" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmipachpande" alt="rashmipachpande" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, Node.js,Java8,Spring,JavaScript**
-
-- 💬 Ask me about **HTML5,CSS3,Bootstrap,Figma**
-
-- 📫 How to reach me **rashmipachpande2@gmail.com**
+- 📊 Learning Data Analytics, Python, SQL & Machine Learning
+-💡 Passionate about Data Visualisation, Insights & Problem-Solving
+-🚀 Always Learning, Growing & Exploring Data-Driven Solutions
+- 📫 How to reach me: **rashmipachpande2@gmail.com**
 
 <h3 align="left">Achievements:</h3>
 <p align="left">
